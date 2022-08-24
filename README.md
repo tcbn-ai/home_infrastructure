@@ -1,2 +1,11 @@
-# home_infrastructure
-The process of creating my home infrastructure.
+# 自宅インフラを構築する
+
+自宅インフラを構築する過程を Git 管理したい。
+
+## 目標
+- 仮想サーバを設置して、検証に使う
+    - 物理的なマシンは1台だけにしたい (設置場所がない)
+
+## 進捗
+### (1) 2022年8月
+[2022年8月時点の自宅インフラ](./process/home_infra_ver_202208.md)
