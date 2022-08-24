@@ -121,7 +121,7 @@ $\Rightarrow$ [NEC Aterm WG1900HP2](https://www.aterm.jp/product/atermstation/pr
 
 ---
 
-![](../fig/ver1_change_network_config/config_ver1.svg)
+![](../fig/ver1_change_network_config/config_ver1.1.svg)
 
 ---
 
@@ -134,8 +134,8 @@ $\Rightarrow$ [NEC Aterm WG1900HP2](https://www.aterm.jp/product/atermstation/pr
 #### 個人的こだわりポイント
 - 仕事用と個人用のネットワークのセグメントを分けた
   - やらかしても会社端末への影響を最小限に抑えるため (VPN使ってるけどね)
-- 個人用の中でも有線と無線のセグメントを分けた
-  - リスク源の切り分け
+- そこそこ良いルーターを使った
+  - そもそもの回線があまり良くないから、引っ越しも視野に入れる
 
 
 ## 今後の予定
