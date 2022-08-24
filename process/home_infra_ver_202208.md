@@ -23,10 +23,12 @@
 ### 構成図
 ![](../fig/ver1_change_network_config/network_configuration_ver1.svg)
 
-![](../fig/ver1_change_network_config/config_ver1.svg)
+![](../fig/ver1_change_network_config/config_ver1.1.svg)
 
 ### 写真
 ![](../fig/ver1_change_network_config/img_2295-fs8.png)
 
 ![](../fig/ver1_change_network_config/img_2294-fs8.png)
 
+## 予定
+- サーバーを自作する

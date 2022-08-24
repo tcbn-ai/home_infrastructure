@@ -7,5 +7,5 @@
     - 物理的なマシンは1台だけにしたい (設置場所がない)
 
 ## 進捗
-### (1) 2022年8月
-[2022年8月時点の自宅インフラ](./process/home_infra_ver_202208.md)
+- [2022年8月時点の自宅インフラ](./process/home_infra_ver_202208.md)
+- [サーバーの構成案](./process/server_specification.md)
